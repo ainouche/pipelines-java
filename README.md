@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/azureainouche/azureainouche/_apis/build/status/ainouche.pipelines-java?branchName=master)](https://dev.azure.com/azureainouche/azureainouche/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
